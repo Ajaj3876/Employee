@@ -1,0 +1,66 @@
+D:\C#\Application Form MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\C#\Application Form MVC\bin\Debug\net6.0\appsettings.json
+D:\C#\Application Form MVC\bin\Debug\net6.0\Application Form MVC.staticwebassets.runtime.json
+D:\C#\Application Form MVC\bin\Debug\net6.0\Application Form MVC.exe
+D:\C#\Application Form MVC\bin\Debug\net6.0\Application Form MVC.deps.json
+D:\C#\Application Form MVC\bin\Debug\net6.0\Application Form MVC.runtimeconfig.json
+D:\C#\Application Form MVC\bin\Debug\net6.0\Application Form MVC.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Application Form MVC.pdb
+D:\C#\Application Form MVC\bin\Debug\net6.0\Humanizer.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Application Form MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\C#\Application Form MVC\obj\Debug\net6.0\Application Form MVC.csproj.AssemblyReference.cache
+D:\C#\Application Form MVC\obj\Debug\net6.0\Application Form MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Application Form MVC\obj\Debug\net6.0\Application Form MVC.AssemblyInfoInputs.cache
+D:\C#\Application Form MVC\obj\Debug\net6.0\Application Form MVC.AssemblyInfo.cs
+D:\C#\Application Form MVC\obj\Debug\net6.0\Application Form MVC.csproj.CoreCompileInputs.cache
+D:\C#\Application Form MVC\obj\Debug\net6.0\Application Form MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Application Form MVC\obj\Debug\net6.0\Application Form MVC.RazorAssemblyInfo.cache
+D:\C#\Application Form MVC\obj\Debug\net6.0\Application Form MVC.RazorAssemblyInfo.cs
+D:\C#\Application Form MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\C#\Application Form MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\C#\Application Form MVC\obj\Debug\net6.0\staticwebassets\msbuild.Application Form MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\Application Form MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.Application Form MVC.props
+D:\C#\Application Form MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Application Form MVC.props
+D:\C#\Application Form MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Application Form MVC.props
+D:\C#\Application Form MVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\C#\Application Form MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C#\Application Form MVC\obj\Debug\net6.0\scopedcss\bundle\Application Form MVC.styles.css
+D:\C#\Application Form MVC\obj\Debug\net6.0\scopedcss\projectbundle\Application Form MVC.bundle.scp.css
+D:\C#\Application Form MVC\obj\Debug\net6.0\Applicat.56879444.Up2Date
+D:\C#\Application Form MVC\obj\Debug\net6.0\Application Form MVC.dll
+D:\C#\Application Form MVC\obj\Debug\net6.0\refint\Application Form MVC.dll
+D:\C#\Application Form MVC\obj\Debug\net6.0\Application Form MVC.pdb
+D:\C#\Application Form MVC\obj\Debug\net6.0\Application Form MVC.genruntimeconfig.cache
+D:\C#\Application Form MVC\obj\Debug\net6.0\ref\Application Form MVC.dll
